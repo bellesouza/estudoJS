@@ -1,7 +1,7 @@
 console.log("trabalhando com atribuicao de variaveis");
 //js é case sensitive
 
-const idade = 25;
+
 let nome = "Ricardo";
 const sobrenome = "Bugan";
 
@@ -15,3 +15,8 @@ contador = contador +1 ;
 const nomeCompleto = nome + sobrenome;
 console.log ("nomeCompleto");
 nomeCompleto = 2; 
+
+let idade; //desclarando variavel
+idade = 26; // atrinuindo valor
+idade= idade +1;
+console.log ("idade");
