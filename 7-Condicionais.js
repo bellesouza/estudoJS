@@ -10,7 +10,7 @@ const idadeComprador = 18;
 const estaAcompanhada = false;
 const temPassagemComprada = true;
 
-console.log("destinos possiveis");
+console.log("\n destinos possiveis"); // \n serve para dar espaço
 console.log(listaDeDestinos);
 
 // if ( idadeComprador >= 18){
